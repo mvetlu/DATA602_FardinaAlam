@@ -1,0 +1,3 @@
+Why are you interested in taking DATA602?
+
+Understanding principles of Data Science, mastering all necessary tools, and being able to fluently work with data is the only way to transfer useless raw data into something actually useful. Great discoveries always start with data!
